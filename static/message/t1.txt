@@ -1,0 +1,1 @@
+<p>Trident内核:IE系列Gecko内核:FirefoxWebkit内核:SafariBlink内核：是基于Webkit内核的子项目,使用的浏览器有：Chrome/opera等除IE、Firefox、Safari之外的几乎所有浏览器几乎所有国产双内核浏览器（Trident/Blink）如360、猎豹、qq、百度等</p>
